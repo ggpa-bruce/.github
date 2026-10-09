@@ -12,17 +12,17 @@ Hint: Use the **Menu** to try a **triangular grid**.
 
 Choose an organization image (or work with ChatGPT to create one):
 
-<img src="images/logo1.png" alt="logo 1" width="300">
+<img src="https://raw.githubusercontent.com/ggpa-bruce/.github/main/profile/images/logo1.png" alt="Logo 1" width="300">
 
-<img src="images/logo2.png" alt="logo 2" width="300">
+<img src="https://raw.githubusercontent.com/ggpa-bruce/.github/main/profile/images/logo2.png" alt="Logo 2" width="300">
 
-<img src="images/logo3.png" alt="logo 3" width="300">
+<img src="https://raw.githubusercontent.com/ggpa-bruce/.github/main/profile/images/logo3.png" alt="Logo 3" width="300">
 
 ## Favicons
 
 Choose a favicon image to appear in the browser tab of your inventions.
 
-<img src="images/favicon_io/android-chrome-192x192.png" alt="favicon">
+<img src="https://raw.githubusercontent.com/ggpa-bruce/.github/main/profile/images/favicon_io/android-chrome-192x192.png" alt="Favicon">
 
 Go to [favicon-generator](https://favicon.io/favicon-generator/).
 
