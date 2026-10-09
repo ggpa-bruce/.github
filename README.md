@@ -1,5 +1,13 @@
 # GGPa Bruce
 
+## ArcDoodle
+
+[ArcDoodle(https://ggpa-bruce.github.io/ArcDoodle/)] is a
+browser-based drawing application
+imagined and created by Bruce Johnson (aka GGPa) with ChatGPT.
+
+## Pick a Logo
+
 Choose an organization image (or work with ChatGPT to create one):
 
 <img src="./images/logo1.png" alt="logo 1" width="300">
